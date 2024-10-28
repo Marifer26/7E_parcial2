@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Naruto Uzumaki",
+        "es_shinobi": true,
+        "es_uchiha": false,
+        "es_jinchuriki": true,
+        "es_hokage": true,
+        "es_hombre": true,
+        "pertenece_a_akatsuki": false,
+        "esta_muerto": false
+    },
+    {
+        "nombre": "Sasuke Uchiha",
+        "es_shinobi": true,
+        "es_uchiha": true,
+        "es_jinchuriki": false,
+        "es_hokage": false,
+        "es_hombre": true,
+        "pertenece_a_akatsuki": false,
+        "esta_muerto": false
+    },
+    {
+        "nombre": "Kakashi Hatake",
+        "es_shinobi": true,
+        "es_uchiha": false,
+        "es_jinchuriki": false,
+        "es_hokage": true,
+        "es_hombre": true,
+        "pertenece_a_akatsuki": false,
+        "esta_muerto": false
+    },
+    {
+        "nombre": "Sakura Haruno",
+        "es_shinobi": true,
+        "es_uchiha": false,
+        "es_jinchuriki": false,
+        "es_hokage": false,
+        "es_hombre": false,
+        "pertenece_a_akatsuki": false,
+        "esta_muerto": false
+    },
+    {
+        "nombre": "Gaara",
+        "es_shinobi": true,
+        "es_uchiha": false,
+        "es_jinchuriki": true,
+        "es_hokage": false,
+        "es_hombre": true,
+        "pertenece_a_akatsuki": false,
+        "esta_muerto": false
+    },
+    {
+        "nombre": "Itachi Uchiha",
+        "es_shinobi": true,
+        "es_uchiha": true,
+        "es_jinchuriki": false,
+        "es_hokage": false,
+        "es_hombre": true,
+        "pertenece_a_akatsuki": true,
+        "esta_muerto": true
+    },
+    {
+        "nombre": "Jiraiya",
+        "es_shinobi": true,
+        "es_uchiha": false,
+        "es_jinchuriki": false,
+        "es_hokage": false,
+        "es_hombre": true,
+        "pertenece_a_akatsuki": false,
+        "esta_muerto": true
+    },
+    {
+        "nombre": "Obito Uchiha",
+        "es_shinobi": true,
+        "es_uchiha": true,
+        "es_jinchuriki": true,
+        "es_hokage": false,
+        "es_hombre": true,
+        "pertenece_a_akatsuki": true,
+        "esta_muerto": true
+    },
+    {
+        "nombre": "paku",
+        "es_shinobi": false,
+        "es_uchiha": false,
+        "es_jinchuriki": false,
+        "es_hokage": false,
+        "es_hombre": true,
+        "pertenece_a_akatsuki": false,
+        "esta_muerto": false
+    }
+]
